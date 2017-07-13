@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormApp", "WebFormApp\WebFormApp.csproj", "{B8DE12EC-67B3-42C4-9BAB-9955A7D0B43E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvpAppWithHelpPage", "MvpAppWithHelpPage\MvpAppWithHelpPage.csproj", "{2A582847-ADE6-4F0B-895E-6CBFC542465B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksAPI", "BooksAPI\BooksAPI.csproj", "{AE76DA55-16E6-4C86-99A3-02CC37EF75C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B8DE12EC-67B3-42C4-9BAB-9955A7D0B43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8DE12EC-67B3-42C4-9BAB-9955A7D0B43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8DE12EC-67B3-42C4-9BAB-9955A7D0B43E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A582847-ADE6-4F0B-895E-6CBFC542465B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A582847-ADE6-4F0B-895E-6CBFC542465B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A582847-ADE6-4F0B-895E-6CBFC542465B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A582847-ADE6-4F0B-895E-6CBFC542465B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE76DA55-16E6-4C86-99A3-02CC37EF75C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE76DA55-16E6-4C86-99A3-02CC37EF75C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE76DA55-16E6-4C86-99A3-02CC37EF75C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE76DA55-16E6-4C86-99A3-02CC37EF75C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
