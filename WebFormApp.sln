@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvpAppWithHelpPage", "MvpAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksAPI", "BooksAPI\BooksAPI.csproj", "{AE76DA55-16E6-4C86-99A3-02CC37EF75C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookService", "BookService\BookService.csproj", "{2EE90A90-1A29-46B6-9BA0-6D1DEF1BB7EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{AE76DA55-16E6-4C86-99A3-02CC37EF75C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE76DA55-16E6-4C86-99A3-02CC37EF75C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE76DA55-16E6-4C86-99A3-02CC37EF75C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE90A90-1A29-46B6-9BA0-6D1DEF1BB7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE90A90-1A29-46B6-9BA0-6D1DEF1BB7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE90A90-1A29-46B6-9BA0-6D1DEF1BB7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE90A90-1A29-46B6-9BA0-6D1DEF1BB7EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
